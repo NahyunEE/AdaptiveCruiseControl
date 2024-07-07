@@ -3,6 +3,10 @@
 - This project is about ACC(Adaptive Cruise Control) at Hyundai Autoever Embedded School 2nd
 - We made ACC system for SDV with using some hardwares
 
+## Members
+- [Dongjin Sun](https://github.com/DongjinSun)
+- [yejin](https://github.com/yejin826)
+- [obsidian0402](https://github.com/obsidian0402)
 
 ## Hardware
 - [Infineon Easy board TC275](https://www.digikey.kr/ko/products/detail/infineon-technologies/KITAURIXTC275ARDSBTOBO1/10667578?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=Pmax%20Shopping_Product_All&utm_term=&utm_content=&utm_id=go_cmp-21036528233_adg-_ad-__dev-c_ext-_prd-10667578_sig-Cj0KCQjw-ai0BhDPARIsAB6hmP4GtyE3AhTDe7vOSXGbpmWHTTiVLdla1R_-MY38erItiDZqgorse6UaAobREALw_wcB&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP4GtyE3AhTDe7vOSXGbpmWHTTiVLdla1R_-MY38erItiDZqgorse6UaAobREALw_wcB)
