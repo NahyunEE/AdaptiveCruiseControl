@@ -12,7 +12,7 @@
 
 ## Tools
 - [Aurix Studio](https://www.infineon.com/cms/en/tools/aurix-tools/free-tools/infineon/)
-
+- [TeraTerm](https://teratermproject.github.io/index-en.html)
 
 ## ACC functions
 
@@ -57,5 +57,10 @@
 - All process is based on A-SPICE 3.1
 <br></br>
 ![프로젝트일정](https://github.com/NahyunEE/AdaptiveCruiseControl/assets/50420981/4b8ef373-9e1a-4140-9c10-29f9030b4ee5)
+
+## Comment
+
+- uart.c and uart.h is for UART to get Motor State to PC with TeraTerm
+
 
 
